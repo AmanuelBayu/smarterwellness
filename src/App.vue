@@ -2,7 +2,7 @@
   <amplify-chatbot
     bot-name="OrderFlowers_dev"
     bot-title="Smarter Wellness Bot"
-    welcome-message="Hello, Would you like to take our Smarter Wellness Covid assesment?"
+    welcome-message=" Hi there! Welcome to Smarter Wellness! Would you like to answer some questions about your health?"
   />
 </template>
 
