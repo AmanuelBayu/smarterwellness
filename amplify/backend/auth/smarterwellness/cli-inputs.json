@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "cognitoConfig": {
+    "identityPoolName": "smarterwellness_identitypool_1e848811",
+    "allowUnauthenticatedIdentities": true,
+    "authSelections": "identityPoolOnly",
+    "resourceName": "smarterwellness",
+    "sharedId": "1e848811",
+    "serviceName": "Cognito",
+    "useDefault": "manual"
+  }
+}

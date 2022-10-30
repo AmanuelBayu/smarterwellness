@@ -1,16 +1,17 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <amplify-chatbot
+    bot-name="OrderFlowers_dev"
+    bot-title="Smarter Wellness Bot"
+    welcome-message="Hello, Would you like to take our Smarter Wellness Covid assesment?"
+  />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+
 
 export default {
   name: 'App',
-  components: {
-    HelloWorld
-  }
+
 }
 </script>
 

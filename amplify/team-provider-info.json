@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-smarterwellness-dev-52642-authRole",
+      "UnauthRoleArn": "arn:aws:iam::179390075190:role/amplify-smarterwellness-dev-52642-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::179390075190:role/amplify-smarterwellness-dev-52642-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-smarterwellness-dev-52642-deployment",
+      "UnauthRoleName": "amplify-smarterwellness-dev-52642-unauthRole",
+      "StackName": "amplify-smarterwellness-dev-52642",
+      "StackId": "arn:aws:cloudformation:us-east-1:179390075190:stack/amplify-smarterwellness-dev-52642/5bf81df0-583d-11ed-a3a1-12dd9142426f",
+      "AmplifyAppId": "d3psvnmvyc3hl2"
+    },
+    "categories": {
+      "auth": {
+        "smarterwellness": {}
+      },
+      "interactions": {
+        "lex2a9da430": {
+          "deploymentBucketName": "amplify-smarterwellness-dev-52642-deployment",
+          "s3Key": "amplify-builds/lex2a9da430-3961562b3776524e4839-build.zip"
+        }
+      }
+    }
+  }
+}
